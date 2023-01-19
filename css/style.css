@@ -379,6 +379,9 @@ footer{
     padding-left: 5rem;
   }
 
+  . copyright-container{
+    font-size: 0.9rem;
+  }
 }
 
 /*======================= MEDIA QUERY (PHONES) ============*/
