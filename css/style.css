@@ -382,6 +382,11 @@ footer{
   . copyright-container{
     font-size: 0.9rem;
   }
+  
+  .footer4{
+    align-items: center;
+    text-align: center;
+  }
 }
 
 /*======================= MEDIA QUERY (PHONES) ============*/
